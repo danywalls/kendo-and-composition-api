@@ -21,3 +21,10 @@ div {
 .border-red {
   border: 2px solid red;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
