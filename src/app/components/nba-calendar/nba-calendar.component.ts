@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { CalendarCommonModule, CalendarComponent, DateInputsModule } from '@progress/kendo-angular-dateinputs';
+import { DateInputsModule } from '@progress/kendo-angular-dateinputs';
 
 @Component({
   selector: 'app-nba-calendar',
